@@ -96,7 +96,7 @@ export default function App() {
 
         <div class="projects-grid">
           <div class="project-card">
-            <img src="site-jeje.png" alt="Vintage Records" />
+            <img src="site-jeje.png" alt="Site sobre a nacao Jeje-Mahi" />
             <div class="tags">
               <span class="tag yellow">Blog</span>
               <span class="tag purple">Projeto Pessoal</span>
@@ -104,7 +104,7 @@ export default function App() {
             <h3>Site informativo sobre a nação Jeje-Mahi</h3>
             <p>Este projeto tem como objetivo reunir e divulgar informações sobre a história da nação Jeje-Mahi no Brasil. 
               Onde visitantes possam aprender mais sobre os fundamentos, tradições e trajetórias do povo Jeje-Mahi.</p>
-            <a href="https://github.com/geisyv/site-sobre-jeje" target="_blank" class="btn">Ver Projeto →</a>
+            <a href="https://github.com/geisyv/site-sobre-jeje" target="_blank" rel="noopener noreferrer" class="btn">Ver Projeto →</a>
           </div>
 
           <div class="project-card">
@@ -115,7 +115,7 @@ export default function App() {
             </div>
             <h3>Previsão do Tempo Global</h3>
             <p>Esta aplicação permite consultar a previsão do tempo em qualquer lugar do mundo, de forma rápida e intuitiva.</p>
-            <a href="https://github.com/geisyv/react-previsao" target="_blank" class="btn">Ver Projeto →</a>
+            <a href="https://github.com/geisyv/react-previsao" target="_blank" rel="noopener noreferrer" class="btn">Ver Projeto →</a>
           </div>
 
           <div class="project-card">
@@ -126,7 +126,7 @@ export default function App() {
             </div>
             <h3>Meu Primeiro Portfólio</h3>
             <p>Este projeto marca o início da minha jornada como desenvolvedora web. Trata-se do meu primeiro portfólio pessoal, criado com o objetivo de apresentar minhas habilidades, projetos e trajetória profissional.</p>
-            <a href="https://github.com/geisyv/meu-portifolio" target="_blank" class="btn">Ver Projeto →</a>
+            <a href="https://github.com/geisyv/meu-portifolio" target="_blank" rel="noopener noreferrer" class="btn">Ver Projeto →</a>
           </div>
         </div>
       </section>
