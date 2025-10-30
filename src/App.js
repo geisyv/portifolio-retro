@@ -51,7 +51,6 @@ export default function App() {
 
 
         <div className="hire-container">
-          <button className="hire-btn">Contrate-me</button>
           <div className="icon">
             <img className="icon-img" src="https://img.icons8.com/emoji/48/hot-beverage.png" alt="hot-beverage" />
           </div>
@@ -81,18 +80,10 @@ export default function App() {
           <img width="50" height="50" src="https://img.icons8.com/ios/50/about-me.png" alt="about-me" />
         </div>
         <div className="sobre-container">
-          <p>
-            Profissional em início de carreira, apaixonada por dados e tecnologia, com foco no desenvolvimento de habilidades em Salesforce e Ciência de Dados. Tenho conhecimentos iniciais em administração e desenvolvimento Salesforce e busco constantemente aprender mais para aplicar soluções que tragam valor estratégico.
-          </p>
-          <p>
-            Motivada, dedicada e com grande vontade de evoluir, quero consolidar minha trajetória unindo dados e tecnologia para gerar insights e apoiar a transformação digital das organizações.
-          </p>
-          <p>
-            Experiência com criação de relatórios, dashboards, SOQL, automações com Flow e desenvolvimento com Apex e Lightning Components. Bootcamp intensivo pela Sys4b com foco prático em Salesforce Platform, incluindo integração de dados, segurança, e construção de apps personalizados.
-          </p>
-          <p>
-            Interesse contínuo em soluções orientadas a dados, CRM e crescimento em ambientes colaborativos e ágeis.
-          </p>
+          <p>Sou apaixonada por tecnologia, aprendizado contínuo e soluções que geram impacto. </p>
+          <p>Com formação em Geografia pela USP e experiência como Analista de Sistemas, venho construindo uma trajetória que une raciocínio analítico e criatividade.</p>
+          <p>Participei de bootcamps e formações práticas que me deram uma visão full stack, desenvolvendo projetos com HTML, CSS, JavaScript, React, APIs e Node.</p>
+          <p>Gosto de explorar como o design, o código e os dados se conectam para criar experiências mais humanas e funcionais.</p>
         </div>
       </section>
 
@@ -110,31 +101,32 @@ export default function App() {
               <span class="tag yellow">Blog</span>
               <span class="tag purple">Projeto Pessoal</span>
             </div>
-            <h3>Site sobre o candomblé Jeje-Mahi</h3>
-            <p>Site que visa reunir informações sobre a história da nação Jeje-Mahi no Brasil.</p>
+            <h3>Site informativo sobre a nação Jeje-Mahi</h3>
+            <p>Este projeto tem como objetivo reunir e divulgar informações sobre a história da nação Jeje-Mahi no Brasil. 
+              Onde visitantes possam aprender mais sobre os fundamentos, tradições e trajetórias do povo Jeje-Mahi.</p>
             <a href="https://github.com/geisyv/site-sobre-jeje" target="_blank" class="btn">Ver Projeto →</a>
           </div>
 
           <div class="project-card">
-            <img src="site1.jpg" alt="Growth Case Study" />
+            <img src="site2.png" alt="Previsão do tempo global" />
             <div class="tags">
-              <span class="tag yellow">Growth Design</span>
-              <span class="tag purple">Mobile</span>
+              <span class="tag yellow">React</span>
+              <span class="tag purple">API REST</span>
             </div>
-            <h3>66M Users in a Year</h3>
-            <p>Como ajudamos uma startup a escalar de 0 a 66 milhões de usuários em 1 ano.</p>
-            <a href="https://github.com/seuusuario/projeto2" target="_blank" class="btn">Ver Projeto →</a>
+            <h3>Previsão do Tempo Global</h3>
+            <p>Esta aplicação permite consultar a previsão do tempo em qualquer lugar do mundo, de forma rápida e intuitiva.</p>
+            <a href="https://github.com/geisyv/react-previsao" target="_blank" class="btn">Ver Projeto →</a>
           </div>
 
           <div class="project-card">
-            <img src="site2.png" alt="RTL Website" />
+            <img src="site3.png" alt="Meu primeiro portifólio" />
             <div class="tags">
-              <span class="tag blue">Localization</span>
-              <span class="tag green">Website</span>
+              <span class="tag blue">Portifólio</span>
+              <span class="tag green">API REST</span>
             </div>
-            <h3>Website RTL</h3>
-            <p>Site multilíngue com suporte para idiomas da direita para a esquerda.</p>
-            <a href="https://github.com/seuusuario/projeto3" target="_blank" class="btn">Ver Projeto →</a>
+            <h3>Meu Primeiro Portfólio</h3>
+            <p>Este projeto marca o início da minha jornada como desenvolvedora web. Trata-se do meu primeiro portfólio pessoal, criado com o objetivo de apresentar minhas habilidades, projetos e trajetória profissional.</p>
+            <a href="https://github.com/geisyv/meu-portifolio" target="_blank" class="btn">Ver Projeto →</a>
           </div>
         </div>
       </section>
